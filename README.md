@@ -14,18 +14,18 @@ https://code.tutsplus.com/courses/how-to-program-interactive-art-with-p5js
 * Review in browser if console prints
 
 ### Functions
-1. Setup
+#### Setup
 For specifying the size of your canvas, background color, that sort of thing.
 
 * You just have to call it, it comes with p5
 * Try it with console.log!
 
-2. Draw function
+#### Draw function
 
 * Same as Setup.
 * It will start looping if you console.log it after setup. As fast as it can
 
-	Start drawing!
+#### Start drawing!
 * To delete the scroll bars ->     
 
 ``` 
