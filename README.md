@@ -39,7 +39,7 @@ or
   createCanvas(window.innerWidth, window.innerHeight);
 
 * Setup
-  background('#CC0000');
+  'background('#CC0000');'
 
 * Draw
   ellipse(50,50,300,250);
