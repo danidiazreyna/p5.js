@@ -27,27 +27,32 @@ For specifying the size of your canvas, background color, that sort of thing.
 
 	Start drawing!
 * To delete the scroll bars ->     
-  canvas {
+
+``` 
+canvas {
         display: block;
       }
+``` 
 
 * Setup
-  createCanvas(600,200);
+ `createCanvas(600,200);`
 
 or
 
-  createCanvas(window.innerWidth, window.innerHeight);
+  `createCanvas(window.innerWidth, window.innerHeight);`
 
 * Setup
-  'background('#CC0000');'
+  `background('#CC0000');`
 
 * Draw
+``` 
   ellipse(50,50,300,250);
   ellipse(position w, position h, width,  height);
 
   stroke('white');
   fill('purple');
 
+``` 
 
 
 
